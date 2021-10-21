@@ -1,7 +1,7 @@
 # hacintosh
  cpu : i7 8700k
  
- 显卡 : r7 250 
+ 显卡 : 核显  
  
- 主板 : asus Z370 Prime
+ 主板 : MSI z370m mortar 
  
